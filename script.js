@@ -1,6 +1,6 @@
 // Edit this list to add, remove or update the sample articles.
 const articles = [
-  {title:"Why I Started This Personal Website",category:"Personal",date:"2026-11-10",description:"A short introduction to this website and what I plan to share here.",url:"#"},
+  {title:"The Takae Kun",category:"Conceptual",date:"30 Aug 2026",description:"A doctrine for modern masculinity.",url:"#"},
   {title:"Lessons From Trying Something New",category:"Experiences",date:"2026-11-10",description:"Notes on curiosity, learning and making progress one step at a time.",url:"#"},
   {title:"Useful Resources I Keep Coming Back To",category:"Resources",date:"2026-11-10",description:"A growing collection of tools, ideas and references worth sharing.",url:"#"}
 ];

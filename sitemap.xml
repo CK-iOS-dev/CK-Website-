@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://YOUR-DOMAIN.example/</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/about.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/blog.html</loc></url>
-  <url><loc>https://YOUR-DOMAIN.example/contact.html</loc></url>
+  <url><loc>https:https://ck-ios-dev.github.io/CK-Website-/index.html</loc></url>
+  <url><loc>https://https://ck-ios-dev.github.io/CK-Website-/about.html</loc></url>
+  <url><loc>https://https://ck-ios-dev.github.io/CK-Website-/blog.html</loc></url>
+  <url><loc>https://https://ck-ios-dev.github.io/CK-Website-/contact.html</loc></url>
 </urlset>

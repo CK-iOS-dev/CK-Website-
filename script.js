@@ -21,7 +21,6 @@ const articles = [
     description: "Debunking the narrative, bringing out the truth.",
     url: "1956-suez-crisis.html"
   }
-  }
 ];
 
 function articleCard(article) {

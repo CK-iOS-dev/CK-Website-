@@ -15,11 +15,11 @@ const articles = [
   url: "predictive-history.html"
 },
   {
-    title: "Useful Resources I Keep Coming Back To",
-    category: "Resources",
+    title: "1956-Suez-Crisis",
+    category: "History-Politics",
     date: "2026-11-10",
-    description: "A growing collection of tools, ideas and references worth sharing.",
-    url: "#"
+    description: "Debunking the narrative, bringing out the truth.",
+    url: "1956-Suez-Crisis"
   }
 ];
 

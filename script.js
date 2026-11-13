@@ -19,7 +19,7 @@ const articles = [
     category: "History-Politics",
     date: "2026-11-10",
     description: "Debunking the narrative, bringing out the truth.",
-    url: "1956-Suez-Crisis"
+    url: "1956-suez-crisis.html"
   }
 ];
 

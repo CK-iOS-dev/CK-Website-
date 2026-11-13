@@ -8,7 +8,6 @@ const articles = [
     url: "the-takae-kun.html"
   },
   {
-  {
   title: "Predictive History — Jiang Xueqin",
   category: "Critical Commentary",
   date: "2026-11-13",

@@ -26,7 +26,7 @@ const articles = [
   date: "2026-08-17",
   description: "Debunking superstition.",
   url: "apple-falls.html"
-},
+}
 ];
 
 function articleCard(article) {

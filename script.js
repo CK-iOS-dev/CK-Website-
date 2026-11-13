@@ -20,8 +20,7 @@ const articles = [
     date: "2026-11-10",
     description: "Debunking the narrative, bringing out the truth.",
     url: "1956-Suez-Crisis"
-  },
-  
+  }
 ];
 
 function articleCard(article) {

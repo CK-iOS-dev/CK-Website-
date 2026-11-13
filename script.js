@@ -21,12 +21,7 @@ const articles = [
     description: "Debunking the narrative, bringing out the truth.",
     url: "1956-Suez-Crisis"
   },
-   title: "apple-falls.html",
-  category: "Conceptual",
-  date: "2026-08-17",
-  description: "Debunking superstition.",
-  url: "apple-falls.html"
-}
+  
 ];
 
 function articleCard(article) {

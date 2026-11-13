@@ -8,12 +8,13 @@ const articles = [
     url: "the-takae-kun.html"
   },
   {
-    title: "Lessons From Trying Something New",
-    category: "Experiences",
-    date: "2026-11-10",
-    description: "Notes on curiosity, learning and making progress one step at a time.",
-    url: "#"
-  },
+  {
+  title: "Predictive History — Jiang Xueqin",
+  category: "Critical Commentary",
+  date: "2026-11-13",
+  description: "A critical examination of Jiang Xueqin's predictions, political analysis, and intellectual framework.",
+  url: "predictive-history.html"
+},
   {
     title: "Useful Resources I Keep Coming Back To",
     category: "Resources",

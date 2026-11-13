@@ -1,6 +1,6 @@
 // Edit this list to add, remove or update the sample articles.
 const articles = [
-  {title:"The Takae Kun",category:"Conceptual",date:"30 Aug 2026",description:"A doctrine for modern masculinity.",url:"url:"the-takae-kun.html""},
+  {title:"The Takae Kun",category:"Conceptual",date:"30 Aug 2026",description:"A doctrine for modern masculinity.",url:"the-takae-kun.html""},
   {title:"Lessons From Trying Something New",category:"Experiences",date:"2026-11-10",description:"Notes on curiosity, learning and making progress one step at a time.",url:"#"},
   {title:"Useful Resources I Keep Coming Back To",category:"Resources",date:"2026-11-10",description:"A growing collection of tools, ideas and references worth sharing.",url:"#"}
 ];

@@ -20,6 +20,13 @@ const articles = [
     date: "2026-11-10",
     description: "Debunking the narrative, bringing out the truth.",
     url: "1956-Suez-Crisis.html"
+  }, 
+  {
+  title: "Predictive History — Jiang Xueqin",
+  category: "Critical Commentary",
+  date: "2026-11-13",
+  description: "A critical examination of Jiang Xueqin's predictions, political analysis, and intellectual framework.",
+  url: "predictive-history.html"
   }
 ];
 

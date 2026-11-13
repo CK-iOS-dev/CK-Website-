@@ -22,11 +22,11 @@ const articles = [
     url: "1956-Suez-Crisis.html"
   }, 
   {
-  title: "Predictive History — Jiang Xueqin",
-  category: "Critical Commentary",
+  title: "apple-falls.html",
+  category: "Conceptual",
   date: "2026-11-13",
-  description: "A critical examination of Jiang Xueqin's predictions, political analysis, and intellectual framework.",
-  url: "predictive-history.html"
+  description: "Debunking superstition.",
+  url: "apple-falls.html"
   }
 ];
 

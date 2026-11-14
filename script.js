@@ -39,14 +39,14 @@ const articles = [
   title: "Buddha as WW2 PM",
   category: "Historical Hypothetical",
   date: "2026-11-14",
-  description: "",
+  description: "World War 2 reimagined.",
   url: "buddha-ww2-pm.html"
 },
   {
   title: "A Friendship like none",
   category: "Conceptual",
   date: "2026-11-14",
-  description: "",
+  description: "Rare friends",
   url: "a-friendship-like-none.html"
 },
 ];

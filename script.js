@@ -34,7 +34,14 @@ const articles = [
   date: "2026-08-10",
   description: "Debunking narrative.",
   url: "truth-consensus.html"
-  }
+  }, 
+  {
+  title: "Buddha as WW2 PM",
+  category: "Historical Hypothetical",
+  date: "2026-11-14",
+  description: "",
+  url: "buddha-ww2-pm.html"
+},
 ];
 
 function articleCard(article) {

@@ -56,6 +56,13 @@ const articles = [
   description: "Exposing Freedom",
   url: "different-levels-of-freedom.html"
 },
+  {
+  title: "He benefitted less, He left more.",
+  category: "Reflections",
+  date: "2026-11-14",
+  description: "A truth deeper than realised.",
+  url: "he-benefitted-less-he-left-more.html"
+},
 ];
 
 function articleCard(article) {

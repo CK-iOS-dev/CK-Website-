@@ -42,6 +42,13 @@ const articles = [
   description: "",
   url: "buddha-ww2-pm.html"
 },
+  {
+  title: "A Friendship like none",
+  category: "People",
+  date: "2026-11-14",
+  description: "",
+  url: "a-friendship-like-none.html"
+},
 ];
 
 function articleCard(article) {

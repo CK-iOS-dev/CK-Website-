@@ -63,6 +63,13 @@ const articles = [
   description: "A truth deeper than realised.",
   url: "he-benefitted-less-he-left-more.html"
 },
+  {
+  title: "Wise people.",
+  category: "Reflections",
+  date: "2026-11-14",
+  description: "Method of figuring out wisdom.",
+  url: "wise-people.html"
+},
 ];
 
 function articleCard(article) {

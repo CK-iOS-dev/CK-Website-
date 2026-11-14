@@ -83,7 +83,7 @@ const articles = [
   date: "2026-11-14",
   description: "",
   url: "his-story-is-about-ideas.html"
-},
+}
 ];
 
 function articleCard(article) {

@@ -26,7 +26,7 @@ const articles = [
   category: "Conceptual",
   date: "2026-11-13",
   description: "Debunking superstition.",
-  url: "Apple falls, it tastes worse..."
+  url: "apple-falls.html"
   }, 
    {
   title: "A Consensus of Truth",

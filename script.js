@@ -34,7 +34,8 @@ const articles = [
   date: "2026-11-13",
   description: "Debunking narrative.",
   url: "truth-consensus.html"
-  }
+  },
+  { 
 ];
 
 function articleCard(article) {

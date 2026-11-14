@@ -3,84 +3,84 @@ const articles = [
   {
     title: "The Takae Kun",
     category: "Conceptual",
-    date: "30 Aug 2026",
+    date: "30 August 2026",
     description: "A doctrine for modern masculinity.",
     url: "the-takae-kun.html"
   },
   {
   title: "Predictive History — Jiang Xueqin",
   category: "Critical Commentary",
-  date: "2026-08-29",
+  date: "29 August 2026",
   description: "A critical examination of Jiang Xueqin's predictions, political analysis, and intellectual framework.",
   url: "predictive-history.html"
   },
   {
     title: "1956-Suez-Crisis",
     category: "History-Politics",
-    date: "2026-08-20",
+    date: "20 August 2026",
     description: "Debunking the narrative, bringing out the truth.",
     url: "1956-Suez-Crisis.html"
   }, 
   {
   title: "Apple falls, it tastes worse...",
   category: "Conceptual",
-  date: "2026-08-17",
+  date: "17 August 2026",
   description: "Debunking superstition.",
   url: "apple-falls.html"
   }, 
    {
   title: "A Consensus of Truth",
   category: "Conceptual",
-  date: "2026-08-10",
+  date: "10 August 2026",
   description: "Debunking narrative.",
   url: "truth-consensus.html"
   }, 
   {
   title: "Buddha as WW2 PM",
   category: "Historical Hypothetical",
-  date: "2026-11-14",
+  date: "10 August 2026",
   description: "World War 2 reimagined.",
   url: "buddha-ww2-pm.html"
 },
   {
   title: "A Friendship like none",
   category: "Conceptual",
-  date: "2026-11-14",
+  date: "06 August 2026",
   description: "Rare friends",
   url: "a-friendship-like-none.html"
 },
   {
   title: "Different levels of Freedom",
   category: "Political Commentary",
-  date: "2026-11-14",
+  date: "30 July 2026",
   description: "Exposing Freedom",
   url: "different-levels-of-freedom.html"
 },
   {
   title: "He benefitted less, He left more.",
   category: "Reflections",
-  date: "2026-11-14",
+  date: "28 July 2026",
   description: "A truth deeper than realised.",
   url: "he-benefitted-less-he-left-more.html"
 },
   {
   title: "Wise people.",
   category: "Reflections",
-  date: "2026-11-14",
+  date: "27 July 2026",
   description: "Method of figuring out wisdom.",
   url: "wise-people.html"
 },
   {
   title: "Blessing, Curse, and Absurdity.",
   category: "Reflections",
-  date: "2026-11-14",
+  date: "24 July 2026",
   description: "Real or unreal.",
   url: "blessing-curse-and-absurdity.html"
 },
   {
   title: "A child who protested...",
   category: "Reflections",
-  date: "2026-11-14",
+  date: "22 July 2026",
   description: "Reality of being a child.",
   url: "his-story-is-about-ideas.html"
 }

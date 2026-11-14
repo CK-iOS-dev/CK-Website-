@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>A Consensus of Truth</title>
+  <title>A consensus of Truth</title>
   <style>
     * {
       box-sizing: border-box;
@@ -36,33 +36,16 @@
       padding: 0 25px;
     }
 
-    .category {
-      color: #71816a;
-      font-family: Arial, sans-serif;
-      font-size: 12px;
-      font-weight: bold;
-      letter-spacing: 2px;
-      text-transform: uppercase;
+    h1 {
+      font-size: clamp(36px, 6vw, 54px);
+      line-height: 1.15;
+      font-weight: normal;
+      margin: 18px 0 40px;
     }
 
     p {
       font-size: 17px;
       margin: 0 0 22px;
-    }
-
-    blockquote {
-      border-left: 3px solid #84917a;
-      margin: 35px 0;
-      padding: 8px 22px;
-      color: #5c6256;
-      font-size: 20px;
-      font-style: italic;
-    }
-
-    .closing {
-      margin-top: 45px;
-      padding-top: 25px;
-      border-top: 1px solid #d8d0c4;
     }
 
     footer {
@@ -93,43 +76,44 @@
 </header>
 
 <main>
-<p>
-We have often noticed that people trust the consensus most of the time, and many fully trust whatever a consensus supports. Consensus is used in several aspects of life. 
-History, for example, is a collection of facts of the past, yet the consensus of historians decides what conclusion must be made. Politics is all about the political structure but often the political scientists' consensus decides a lot of what to believe. Science, Economics,Media, and several other aspects are dependent on some sort of consensus. Even if not formal.  .
-</p>
 
+  <h1>A consensus of Truth</h1>
 
-<p>
-The way governments work, on paper even that is decided by consensus (elections), as most of the nations are “democratic”. Consensus, consensus, and consensus everywhere. Society itself runs on consensus, not formal ones tough. Often we hear “most people believe X, and they are not fools”. It is believed that if majority of the people believe something, not all of them can be fools, and they must be satisfied.
-I don’t believe this at all. I don’t believe that consensus can do anything meaningful. It just tells what is being thought, it doesn’t tell us why they think so. Even if we were to check knowledge of the “voters” through examinations, they would cram things and pass. But to hold that even, the consensus must agree first. But they won’t. Referendums can fail. But firstly it is hard to even hold a referendum. 
-</p>
+  <p>
+    We have often noticed that people trust the consensuses most of the time, and many fully trust whatever a consensus supports. Consensus is used in several aspects of life. History, for example is a collection of facts in the past, yet the consensus of historians decides what conclusion must be made. Politics, for example is all about the political structure, but often political scientists’ consensus decides a lot of what to believe and what not to. Science, economics, media, and several other aspects are dependent on some sort of consensus. Even if not taken formally, sometimes.
+  </p>
 
+  <p>
+    The way governments work, on paper even that is decided by consensus (elections), as most of the nations are “democratic”. Consensus, consensus, and consensus everywhere. Society itself runs on consensus, not formal ones tough. Often we hear “most people believe X, and they are not fools”. It is believed that if majority of the people believe something, not all of them can be fools, and they must be satisfied.
+  </p>
 
-<p>
-Example - Brexit referendum strongly argued Britain’s exit from the EU, and was approved by the consensus. 
-Result - Many regret now, despite 10 years passing. 
- </p>
+  <p>
+    I don’t believe this at all. I don’t believe that consensus can do anything meaningful. It just tells what is being thought, it doesn’t tell us why they think so. Even if we were to check knowledge of the “voters” through examinations, they would cram things and pass. But to hold that even, the consensus must agree first. But they won’t. Referendums can fail. But firstly it is hard to even hold a referendum.
+  </p>
 
+  <p>
+    Example - Brexit referendum strongly argued Britain’s exit from the EU, and was approved by the consensus.
+  </p>
 
-<p>
-What do we care about? Truth or governance ? I care about truth, and I’d rather support a meritocratic regime rather than “democracy”. The herd justifies things by itself, but it is foolish enough to acknowledge they cannot be self evident. What is the independent merit of a choice? Often both choices are good at some aspects and bad at others, why is the majority’s perspective implemented? When none perspective is better than the other. 
- </p>
+  <p>
+    Result - Many regret now, despite 10 years passing.
+  </p>
 
+  <p>
+    What do we care about? Truth or governance ? I care about truth, and I’d rather support a meritocratic regime rather than “democracy”. The herd justifies things by itself, but it is foolish enough to acknowledge they cannot be self evident. What is the independent merit of a choice? Often both choices are good at some aspects and bad at others, why is the majority’s perspective implemented? When none perspective is better than the other.
+  </p>
 
-<p>
-It turns out that the governments, the societies, and the historians and political scientists have less appetite for discomfort, and from what I see, truth is not the #1 priority, something else is. And that is simply “We want it to work out, anyhow, even if ineffectively, we want it to last, continue” but what about the truth? The whole setup is preserve the structure that exists, not to teach it lessons. 
- </p>
+  <p>
+    It turns out that the governments, the societies, and the historians and political scientists have less appetite for discomfort, and from what I see, truth is not the #1 priority, something else is. And that is simply “We want it to work out, anyhow, even if ineffectively, we want it to last, continue” but what about the truth? The whole setup is preserve the structure that exists, not to teach it lessons.
+  </p>
 
+  <p>
+    I don’t consider consensuses relevant, I’d always look at arguments’ own merit, and the strength of the evidence on its own, independently.
+  </p>
 
-<p>
-I don’t consider consensuses relevant, I’d always look at arguments’ own merit, and the strength of the evidence on its own, independently. 
- </p>
-
-
-<p>
-Don’t believe anything through Consensus, judge the facts independently, lots of things are manipulated around you, beware.
- </p>
-
+  <p>
+    Don’t believe anything through Consensus, judge the facts independently, lots of things are manipulated around you, beware.
+  </p>
 
 </main>
 

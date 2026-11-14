@@ -35,7 +35,6 @@ const articles = [
   description: "Debunking narrative.",
   url: "truth-consensus.html"
   }
-  { 
 ];
 
 function articleCard(article) {

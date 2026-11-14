@@ -70,6 +70,13 @@ const articles = [
   description: "Method of figuring out wisdom.",
   url: "wise-people.html"
 },
+  {
+  title: "Blessing, Curse, and Absurdity.",
+  category: "Reflections",
+  date: "2026-11-14",
+  description: "Real orr unreal.",
+  url: "blessing-curse-and-absurdity.html"
+},
 ];
 
 function articleCard(article) {

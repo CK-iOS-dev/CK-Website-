@@ -22,14 +22,14 @@ const articles = [
     url: "1956-Suez-Crisis.html"
   }, 
   {
-  title: "apple-falls.html",
+  title: "Apple falls, it tastes worse...",
   category: "Conceptual",
   date: "2026-11-13",
   description: "Debunking superstition.",
-  url: "apple-falls.html"
+  url: "Apple falls, it tastes worse..."
   }, 
    {
-  title: "A-Consensus-of-Truth",
+  title: "A Consensus of Truth",
   category: "Conceptual",
   date: "2026-11-13",
   description: "Debunking narrative.",

@@ -10,28 +10,28 @@ const articles = [
   {
   title: "Predictive History — Jiang Xueqin",
   category: "Critical Commentary",
-  date: "2026-11-13",
+  date: "2026-08-29",
   description: "A critical examination of Jiang Xueqin's predictions, political analysis, and intellectual framework.",
   url: "predictive-history.html"
   },
   {
     title: "1956-Suez-Crisis",
     category: "History-Politics",
-    date: "2026-11-10",
+    date: "2026-08-20",
     description: "Debunking the narrative, bringing out the truth.",
     url: "1956-Suez-Crisis.html"
   }, 
   {
   title: "Apple falls, it tastes worse...",
   category: "Conceptual",
-  date: "2026-11-13",
+  date: "2026-08-17",
   description: "Debunking superstition.",
   url: "apple-falls.html"
   }, 
    {
   title: "A Consensus of Truth",
   category: "Conceptual",
-  date: "2026-11-13",
+  date: "2026-08-10",
   description: "Debunking narrative.",
   url: "truth-consensus.html"
   }

@@ -49,6 +49,13 @@ const articles = [
   description: "Rare friends",
   url: "a-friendship-like-none.html"
 },
+  {
+  title: "Different levels of Freedom",
+  category: "Political Commentary",
+  date: "2026-11-14",
+  description: "Exposing Freedom",
+  url: "different-levels-of-freedom.html"
+},
 ];
 
 function articleCard(article) {

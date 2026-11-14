@@ -74,14 +74,14 @@ const articles = [
   title: "Blessing, Curse, and Absurdity.",
   category: "Reflections",
   date: "2026-11-14",
-  description: "Real orr unreal.",
+  description: "Real or unreal.",
   url: "blessing-curse-and-absurdity.html"
 },
   {
   title: "A child who protested...",
   category: "Reflections",
   date: "2026-11-14",
-  description: "",
+  description: "Reality of being a child.",
   url: "his-story-is-about-ideas.html"
 }
 ];

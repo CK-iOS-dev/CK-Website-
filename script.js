@@ -44,7 +44,7 @@ const articles = [
 },
   {
   title: "A Friendship like none",
-  category: "People",
+  category: "Conceptual",
   date: "2026-11-14",
   description: "",
   url: "a-friendship-like-none.html"

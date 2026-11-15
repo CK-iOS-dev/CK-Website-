@@ -238,6 +238,13 @@ const articles = [
   description: "Intent vs Consequence",
   url: "the-ends-justify-the-means.html"
 },
+  {
+  title: "Is everyone equal?",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "A Principle gets evaluated",
+  url: "is-everyone-equal.html"
+},
 ];
 
 function articleCard(article) {

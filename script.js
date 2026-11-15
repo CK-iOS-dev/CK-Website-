@@ -147,6 +147,13 @@ const articles = [
   description: "Honesty",
   url: "promise-vs-delivery.html"
 },
+  {
+  title: "Lord Mountbatten's role in the independence of India and its unification.",
+  category: "Historical Hypothetical",
+  date: "2026-11-15",
+  description: "",
+  url: "lord-mountbatten-role-independence-india.html"
+},
 ];
 
 function articleCard(article) {

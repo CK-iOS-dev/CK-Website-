@@ -210,6 +210,13 @@ const articles = [
   description: "Being a child",
   url: "trauma-of-a-child.html"
 },
+  {
+  title: "The inbuilt Economics (poverty)",
+  category: "Political Commentary",
+  date: "2026-11-15",
+  description: "Abstraction?",
+  url: "the-inbuilt-economics-poverty.html"
+},
 ];
 
 function articleCard(article) {

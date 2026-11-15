@@ -182,6 +182,13 @@ const articles = [
   description: "Netaji or Narrative Ji?",
   url: "subhash-chandra-bose-evaluated.html"
 },
+  {
+  title: "Minimal Clutter",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Necessary above unnecessary",
+  url: "minimal-clutter.html"
+},
 ];
 
 function articleCard(article) {

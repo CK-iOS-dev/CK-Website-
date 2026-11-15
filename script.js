@@ -98,6 +98,13 @@ const articles = [
   description: "Truth or marketplace?",
   url: "confusion.html"
 },
+  {
+  title: "Those who hunger strike",
+  category: "Political Commentary",
+  date: "2026-11-15",
+  description: "The cost of the benefit.",
+  url: "those-who-hunger-strike.html"
+},
 ];
 
 function articleCard(article) {

@@ -91,6 +91,13 @@ const articles = [
   description: "The problem of multiple perspectives.",
   url: "not-the-only-theory.html"
 },
+  {
+  title: "Confusion",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "confusion.html"
+},
 ];
 
 function articleCard(article) {

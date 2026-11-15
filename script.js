@@ -175,6 +175,13 @@ const articles = [
   description: "Beyond the narrative",
   url: "what-happened-with-bhagat-singh.html"
 },
+  {
+  title: "Subhash Chandra Bose evaluated like never before...",
+  category: "Historical Hypothetical",
+  date: "2026-11-15",
+  description: "",
+  url: "subhash-chandra-bose-evaluated.html"
+},
 ];
 
 function articleCard(article) {

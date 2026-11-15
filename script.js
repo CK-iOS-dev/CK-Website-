@@ -83,7 +83,14 @@ const articles = [
   date: "22 July 2026",
   description: "Reality of being a child.",
   url: "his-story-is-about-ideas.html"
-}
+}, 
+  {
+  title: "Not the only theory",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "The problem of multiple perspectives.",
+  url: "not-the-only-theory.html"
+},
 ];
 
 function articleCard(article) {

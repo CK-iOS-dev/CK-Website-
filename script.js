@@ -301,6 +301,13 @@ const articles = [
   description: "Educated to be a fool",
   url: "a-fool-so-educated-real.html"
 },
+  {
+  title: "Reality of Education",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Exaggerated numbers.",
+  url: "reality-of-education.html"
+},
 ];
 
 function articleCard(article) {

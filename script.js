@@ -85,17 +85,17 @@ const articles = [
   url: "his-story-is-about-ideas.html"
 }, 
   {
-  title: "Not the only theory",
+  title: "Not the only theory.",
   category: "Reflections",
   date: "2026-11-15",
   description: "The problem of multiple perspectives.",
   url: "not-the-only-theory.html"
 },
   {
-  title: "Confusion",
+  title: "Confusion.",
   category: "Reflections",
   date: "2026-11-15",
-  description: "",
+  description: "Truth or marketplace?",
   url: "confusion.html"
 },
 ];

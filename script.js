@@ -112,6 +112,13 @@ const articles = [
   description: "Your day or others'?",
   url: "happy-birthday-or-another-ruined-day.html"
 },
+  {
+  title: "The fear of failure.",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "The cost for success.",
+  url: "fear-of-failure.html"
+},
 ];
 
 function articleCard(article) {

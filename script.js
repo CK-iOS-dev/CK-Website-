@@ -308,6 +308,42 @@ const articles = [
   description: "Exaggerated numbers.",
   url: "reality-of-education.html"
 },
+   {
+  title: "Impulse and Intellect.",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "impulse-and-intellect.html"
+},
+{
+  title: "Practical and Impractical.",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Reconsider",
+  url: "practical-and-impractical.html"
+},
+{
+  title: "Just and Unjust",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "just-and-unjust.html"
+},
+{
+  title: "Fight or Flight",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Honour vs Honesty",
+  url: "fight-or-flight.html"
+},
+{
+  title: "Health or Wealth?",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "health-or-wealth.html"
+},
+
 ];
 
 function articleCard(article) {

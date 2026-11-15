@@ -224,6 +224,13 @@ const articles = [
   description: "",
   url: "why-still-have-some-humanism.html"
 },
+  {
+  title: "Does Bad weigh more than Good?",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "The actual weight",
+  url: "does-bad-weigh-more-than-good.html"
+},
 ];
 
 function articleCard(article) {

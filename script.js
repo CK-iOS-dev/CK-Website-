@@ -119,6 +119,13 @@ const articles = [
   description: "The cost for success.",
   url: "fear-of-failure.html"
 },
+  {
+  title: "The art of giving up",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "A challenge to 'Never give up'",
+  url: "the-art-of-giving-up.html"
+},
 ];
 
 function articleCard(article) {

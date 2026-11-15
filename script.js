@@ -105,6 +105,13 @@ const articles = [
   description: "The cost of the benefit.",
   url: "those-who-hunger-strike.html"
 },
+  {
+  title: "Happy Birthday!! Or another ruined day?",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Your day or others'?",
+  url: "happy-birthday-or-another-ruined-day.html"
+},
 ];
 
 function articleCard(article) {

@@ -287,6 +287,13 @@ const articles = [
   description: "Dellusion vs Reality",
   url: "imagination-and-realistic-approach.html"
 },
+  {
+  title: "Tribalism : A disease",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Disease of Devotion",
+  url: "tribalism-a-disease.html"
+},
 ];
 
 function articleCard(article) {

@@ -259,6 +259,13 @@ const articles = [
   description: "Why beg?",
   url: "beg-less-pardons.html"
 },
+  {
+  title: "Don't Die for a principle.",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "dont-die-for-a-principle.html"
+},
 ];
 
 function articleCard(article) {

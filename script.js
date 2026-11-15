@@ -161,6 +161,13 @@ const articles = [
   description: "For the Emperor or the Republic?",
   url: "rabindranath-tagore-and-the-controversy.html"
 },
+  {
+  title: "Was Gandhi a mahatma?",
+  category: "Historical Hypothetical",
+  date: "2026-11-15",
+  description: "The truth behind the honorfic",
+  url: "was-gandhi-a-mahatma.html"
+},
 ];
 
 function articleCard(article) {

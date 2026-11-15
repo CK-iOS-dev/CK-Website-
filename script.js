@@ -231,6 +231,13 @@ const articles = [
   description: "The actual weight",
   url: "does-bad-weigh-more-than-good.html"
 },
+  {
+  title: "The ends justify the means",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Intent vs Consequence",
+  url: "the-ends-justify-the-means.html"
+},
 ];
 
 function articleCard(article) {

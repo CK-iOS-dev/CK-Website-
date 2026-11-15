@@ -196,6 +196,13 @@ const articles = [
   description: "BEE criterion",
   url: "binary-ethical-evaluation.html"
 },
+  {
+  title: "Multi Tasking vs Single Tasking",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "multi-tasking-vs-single-tasking.html"
+},
 ];
 
 function articleCard(article) {

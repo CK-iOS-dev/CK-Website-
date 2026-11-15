@@ -154,6 +154,13 @@ const articles = [
   description: "The truth of the Steel",
   url: "lord-mountbatten-role-independence-india.html"
 },
+  {
+  title: "Rabindranath Tagore, and the controversy.",
+  category: "Historical Evaluation",
+  date: "2026-11-15",
+  description: "For the Emperor or the Republic?",
+  url: "rabindranath-tagore-and-the-controversy.html"
+},
 ];
 
 function articleCard(article) {

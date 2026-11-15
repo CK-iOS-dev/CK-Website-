@@ -200,8 +200,15 @@ const articles = [
   title: "Multi Tasking vs Single Tasking",
   category: "Reflections",
   date: "2026-11-15",
-  description: "",
+  description: "Methods",
   url: "multi-tasking-vs-single-tasking.html"
+},
+  {
+  title: "Trauma of a Child",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Being a child",
+  url: "trauma-of-a-child.html"
 },
 ];
 

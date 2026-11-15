@@ -168,6 +168,13 @@ const articles = [
   description: "The truth behind the honorfic",
   url: "was-gandhi-a-mahatma.html"
 },
+  {
+  title: "What happened with Bhagat Singh?",
+  category: "Historical Evaluation",
+  date: "2026-11-15",
+  description: "Beyond the narrative",
+  url: "what-happened-with-bhagat-singh.html"
+},
 ];
 
 function articleCard(article) {

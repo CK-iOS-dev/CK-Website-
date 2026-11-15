@@ -179,7 +179,7 @@ const articles = [
   title: "Subhash Chandra Bose evaluated like never before...",
   category: "Historical Hypothetical",
   date: "2026-11-15",
-  description: "",
+  description: "Netaji or Narrative Ji?",
   url: "subhash-chandra-bose-evaluated.html"
 },
 ];

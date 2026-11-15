@@ -245,6 +245,13 @@ const articles = [
   description: "A Principle gets evaluated",
   url: "is-everyone-equal.html"
 },
+  {
+  title: "Equal or Effective?",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Principle vs Practicality",
+  url: "equal-or-effective.html"
+},
 ];
 
 function articleCard(article) {

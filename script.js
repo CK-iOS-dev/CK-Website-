@@ -140,6 +140,13 @@ const articles = [
   description: "Consent or Coercion?",
   url: "a-prince.html"
 },
+  {
+  title: "Promise vs Delivery",
+  category: "Political Commentary",
+  date: "2026-11-15",
+  description: "Honesty",
+  url: "promise-vs-delivery.html"
+},
 ];
 
 function articleCard(article) {

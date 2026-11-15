@@ -189,6 +189,13 @@ const articles = [
   description: "Necessary above unnecessary",
   url: "minimal-clutter.html"
 },
+  {
+  title: "Binary Ethical Evaluation",
+  category: "Political Commentary",
+  date: "2026-11-15",
+  description: "BEE criterion",
+  url: "binary-ethical-evaluation.html"
+},
 ];
 
 function articleCard(article) {

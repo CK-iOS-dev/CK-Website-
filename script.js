@@ -252,6 +252,13 @@ const articles = [
   description: "Principle vs Practicality",
   url: "equal-or-effective.html"
 },
+  {
+  title: "Beg less pardons!!",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Why beg?",
+  url: "beg-less-pardons.html"
+},
 ];
 
 function articleCard(article) {

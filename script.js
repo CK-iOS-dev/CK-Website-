@@ -280,6 +280,13 @@ const articles = [
   description: "Speak precisely",
   url: "articulation.html"
 },
+  {
+  title: "Imagination and realistic approach.",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Dellusion vs Reality",
+  url: "imagination-and-realistic-approach.html"
+},
 ];
 
 function articleCard(article) {

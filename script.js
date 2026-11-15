@@ -294,6 +294,13 @@ const articles = [
   description: "Disease of Devotion",
   url: "tribalism-a-disease.html"
 },
+  {
+  title: "A fool so educated (real).",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Educated to be a fool",
+  url: "a-fool-so-educated-real.html"
+},
 ];
 
 function articleCard(article) {

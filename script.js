@@ -273,6 +273,13 @@ const articles = [
   description: "Reconsidering manipulation.",
   url: "manipulation-ethically-and-practically.html"
 },
+  {
+  title: "Articulation.",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Speak precisely",
+  url: "articulation.html"
+},
 ];
 
 function articleCard(article) {

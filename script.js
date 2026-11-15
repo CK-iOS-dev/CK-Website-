@@ -217,6 +217,13 @@ const articles = [
   description: "Abstraction?",
   url: "the-inbuilt-economics-poverty.html"
 },
+  {
+  title: "Why still have some humanism?",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "why-still-have-some-humanism.html"
+},
 ];
 
 function articleCard(article) {

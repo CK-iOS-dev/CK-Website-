@@ -343,7 +343,13 @@ const articles = [
   description: "",
   url: "health-or-wealth.html"
 },
-
+{
+  title: "Ignorance or Awareness?",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "",
+  url: "ignorance-or-awareness.html"
+},
 ];
 
 function articleCard(article) {

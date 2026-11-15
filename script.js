@@ -266,6 +266,13 @@ const articles = [
   description: "",
   url: "dont-die-for-a-principle.html"
 },
+  {
+  title: "Manipulation, ethically and practically.",
+  category: "Reflections",
+  date: "2026-11-15",
+  description: "Reconsidering manipulation.",
+  url: "manipulation-ethically-and-practically.html"
+},
 ];
 
 function articleCard(article) {

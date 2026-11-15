@@ -126,6 +126,13 @@ const articles = [
   description: "A challenge to 'Never give up'",
   url: "the-art-of-giving-up.html"
 },
+  {
+  title: "Predictability vs Lies",
+  category: "Political Commentary",
+  date: "2026-11-15",
+  description: "Meet the expectations or lie",
+  url: "predictability-vs-lies.html"
+},
 ];
 
 function articleCard(article) {

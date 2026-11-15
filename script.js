@@ -133,6 +133,13 @@ const articles = [
   description: "Meet the expectations or lie",
   url: "predictability-vs-lies.html"
 },
+  {
+  title: "A Prince",
+  category: "Political Commentary",
+  date: "2026-11-15",
+  description: "Consent or Coercion?",
+  url: "a-prince.html"
+},
 ];
 
 function articleCard(article) {

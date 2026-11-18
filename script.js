@@ -441,6 +441,14 @@ const articles = [
   description: "",
   url: "realism-vs-honesty.html"
 },
+  {
+  title: "Different standards, cherry picking and hypocrisy.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "different-standards-cherry-picking-and-hypocrisy.html"
+},
+  
 ];
 
 function articleCard(article) {

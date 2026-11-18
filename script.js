@@ -476,7 +476,13 @@ const articles = [
   description: "",
   url: "there-is-always-a-bigger-fish.html"
 },
-  
+  {
+  title: "iPhone Pro Max theory",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "iphone-pro-max-theory.html"
+},
 ];
 
 function articleCard(article) {

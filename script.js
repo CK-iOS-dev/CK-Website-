@@ -434,6 +434,13 @@ const articles = [
   description: "",
   url: "the-word-perfect-is-a-lie.html"
 },
+  {
+  title: "Realism vs Honesty",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "realism-vs-honesty.html"
+},
 ];
 
 function articleCard(article) {

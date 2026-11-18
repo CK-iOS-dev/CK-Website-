@@ -483,6 +483,14 @@ const articles = [
   description: "",
   url: "iphone-pro-max-theory.html"
 },
+  {
+  title: "The fight of two bulls and the condition of the grass.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "the-fight-of-two-bulls-and-the-condition-of-the-grass.html"
+},
+  
 ];
 
 function articleCard(article) {

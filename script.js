@@ -413,6 +413,13 @@ const articles = [
   description: "",
   url: "does-pessimism-make-sense.html"
 },
+  {
+  title: "Is truth even valuable?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "is-truth-even-valuable.html"
+},
 ];
 
 function articleCard(article) {

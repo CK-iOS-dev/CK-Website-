@@ -392,6 +392,13 @@ const articles = [
   description: "On Honesty.",
   url: "reward-for-honesty.html"
 },
+  {
+  title: "Why I have dismissed ChatGPT?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "Dismissal",
+  url: "why-i-have-dismissed-chatgpt.html"
+},
 ];
 
 function articleCard(article) {

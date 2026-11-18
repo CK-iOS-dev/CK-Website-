@@ -400,6 +400,13 @@ const articles = [
   url: "why-i-have-dismissed-chatgpt.html"
 },
   {
+  title: "Does Optimism make sense?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "does-optiimism-make-sense.html"
+},
+  {
   title: "Does Pessimism make sense?",
   category: "Reflections",
   date: "2026-11-18",

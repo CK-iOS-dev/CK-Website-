@@ -364,6 +364,13 @@ const articles = [
   description: "Theory in practice",
   url: "the-game-theory.html"
 },
+  {
+  title: "The weight of Principles",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "Worth it?",
+  url: "the-weight-of-principles.html"
+},
 ];
 
 function articleCard(article) {

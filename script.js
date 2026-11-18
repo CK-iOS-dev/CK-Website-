@@ -350,6 +350,13 @@ const articles = [
   description: "",
   url: "ignorance-or-awareness.html"
 },
+  {
+  title: "Living on your terms.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "Autonomy",
+  url: "living-on-your-terms.html"
+},
 ];
 
 function articleCard(article) {

@@ -490,7 +490,20 @@ const articles = [
   description: "",
   url: "the-fight-of-two-bulls-and-the-condition-of-the-grass.html"
 },
-  
+  {
+  title: "To all those \"Live forever\" guys",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "to-all-those-live-forever-guys.html"
+},
+  {
+  title: "AI as an authority",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "ai-as-an-authority.html"
+},
 ];
 
 function articleCard(article) {

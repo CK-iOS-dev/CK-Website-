@@ -378,6 +378,13 @@ const articles = [
   description: "Coin or something else",
   url: "the-two-sides-of-a-coin.html"
 },
+  {
+  title: "Price of Perfection.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "About Perfection.",
+  url: "price-of-perfection.html"
+},
 ];
 
 function articleCard(article) {

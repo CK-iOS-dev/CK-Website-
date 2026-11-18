@@ -399,6 +399,13 @@ const articles = [
   description: "Dismissal",
   url: "why-i-have-dismissed-chatgpt.html"
 },
+  {
+  title: "Does Pessimism make sense?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "does-pessimism-make-sense.html"
+},
 ];
 
 function articleCard(article) {

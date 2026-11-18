@@ -356,6 +356,13 @@ const articles = [
   date: "2026-11-18",
   description: "Autonomy",
   url: "living-on-your-terms.html"
+}, 
+  {
+  title: "The Game Theory",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "Theory in practice",
+  url: "the-game-theory.html"
 },
 ];
 

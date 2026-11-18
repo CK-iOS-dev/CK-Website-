@@ -428,7 +428,7 @@ const articles = [
   url: "is-there-an-absolute-truth.html"
 },
   {
-  title: "The word "Perfect" is a lie...",
+  title: "The word 'Perfect' is a lie...",
   category: "Reflections",
   date: "2026-11-18",
   description: "",

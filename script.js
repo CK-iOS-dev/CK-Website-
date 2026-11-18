@@ -511,6 +511,160 @@ const articles = [
   description: "",
   url: "impact-of-social-media-on-children.html"
 },
+  {
+  title: "MacBook Air M5",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "macbook-air-m5.html"
+},
+  {
+  title: "Downplaying Fatherhood...",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "downplaying-fatherhood.html"
+},
+  {
+  title: "Respect for the elders!! Should you?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "respect-for-the-elders-should-you.html"
+},
+  {
+  title: "Reality of Cinema.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "reality-of-cinema.html"
+},
+  {
+  title: "Churchill Reality.",
+  category: "Historical Hypothetical",
+  date: "2026-11-18",
+  description: "",
+  url: "churchill-reality.html"
+},
+  {
+  title: "Western vs Eastern philosophy, which is superior?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "western-vs-eastern-philosophy-which-is-superior.html"
+},
+  {
+  title: "Do alcohol and smoking really decrease life?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "do-alcohol-and-smoking-really-decrease-life.html"
+},
+  {
+  title: "Degree vs skill?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "degree-vs-skill.html"
+},
+  {
+  title: "Aristotle, Plato, Socrates : Actually Wise or Overrated?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "aristotle-plato-socrates-actually-wise-or-overrated.html"
+},
+  {
+  title: "Merit or Democracy.",
+  category: "Political Commentary",
+  date: "2026-11-18",
+  description: "",
+  url: "merit-or-democracy.html"
+},
+  {
+  title: "Friedrich Nietzsche and the Superman.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "friedrich-nietzsche-and-the-superman.html"
+},
+  {
+  title: "Is Wisdom even real?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "is-wisdom-even-real.html"
+},
+  {
+  title: "Are Polymaths real?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "are-polymaths-real.html"
+},
+  {
+  title: "Do Evil doers always get punished? Well...",
+  category: "Political Commentary",
+  date: "2026-11-18",
+  description: "",
+  url: "do-evil-doers-always-get-punished.html"
+},
+  {
+  title: "Marcus Aurelius and Stoicism.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "marcus-aurelius-and-stoicism.html"
+},
+  {
+  title: "Consumerism, and us.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "consumerism-and-us.html"
+},
+  {
+  title: "How did they? (The mind of ambitious people)",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "how-did-they-the-mind-of-ambitious-people.html"
+},
+  {
+  title: "\"Fearless dies once, Cautious never lives\"",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "fearless-dies-once-cautious-never-lives.html"
+},
+  {
+  title: "Is AI bad for humans?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "is-ai-bad-for-humans.html"
+},
+  {
+  title: "Does Perspectivism make sense?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "does-perspectivism-make-sense.html"
+},
+  {
+  title: "How to develop Discipline?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "how-to-develop-discipline.html"
+},
+  {
+  title: "Does Natalism make any sense?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "does-natalism-make-any-sense.html"
+},
 ];
 
 function articleCard(article) {

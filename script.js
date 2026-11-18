@@ -427,6 +427,13 @@ const articles = [
   description: "",
   url: "is-there-an-absolute-truth.html"
 },
+  {
+  title: "The word "Perfect" is a lie...",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "the-word-perfect-is-a-lie.html"
+},
 ];
 
 function articleCard(article) {

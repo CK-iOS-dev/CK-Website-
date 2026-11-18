@@ -420,6 +420,13 @@ const articles = [
   description: "",
   url: "is-truth-even-valuable.html"
 },
+  {
+  title: "Is there an absolute truth?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "is-there-an-absolute-truth.html"
+},
 ];
 
 function articleCard(article) {

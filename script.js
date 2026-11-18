@@ -504,6 +504,13 @@ const articles = [
   description: "",
   url: "ai-as-an-authority.html"
 },
+  {
+  title: "Impact of Social Media on Children",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "impact-of-social-media-on-children.html"
+},
 ];
 
 function articleCard(article) {

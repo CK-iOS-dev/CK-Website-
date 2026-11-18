@@ -371,6 +371,13 @@ const articles = [
   description: "Worth it?",
   url: "the-weight-of-principles.html"
 },
+  {
+  title: "The two sides of a Coin.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "Coin or something else",
+  url: "the-two-sides-of-a-coin.html"
+},
 ];
 
 function articleCard(article) {

@@ -385,6 +385,13 @@ const articles = [
   description: "About Perfection.",
   url: "price-of-perfection.html"
 },
+  {
+  title: "Reward for Honesty.",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "On Honesty.",
+  url: "reward-for-honesty.html"
+},
 ];
 
 function articleCard(article) {

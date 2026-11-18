@@ -448,6 +448,34 @@ const articles = [
   description: "",
   url: "different-standards-cherry-picking-and-hypocrisy.html"
 },
+  {
+  title: "Humanism doesn't apply on animals, does it?",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "humanism-doesnt-apply-on-animals-does-it.html"
+},
+  {
+  title: "A Quality Life",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "a-quality-life.html"
+},
+  {
+  title: "\"Degrees will be worthless\"",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "degrees-will-be-worthless.html"
+},
+  {
+  title: "\"There is always a bigger fish\"",
+  category: "Reflections",
+  date: "2026-11-18",
+  description: "",
+  url: "there-is-always-a-bigger-fish.html"
+},
   
 ];
 

@@ -366,14 +366,14 @@ const articles = [
 },
   {
   title: "The weight of Principles",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "Worth it?",
   url: "the-weight-of-principles.html"
 },
   {
   title: "The two sides of a Coin.",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "Coin or something else",
   url: "the-two-sides-of-a-coin.html"
@@ -408,168 +408,168 @@ const articles = [
 },
   {
   title: "Does Pessimism make sense?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "does-pessimism-make-sense.html"
 },
   {
   title: "Is truth even valuable?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "is-truth-even-valuable.html"
 },
   {
   title: "Is there an absolute truth?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "is-there-an-absolute-truth.html"
 },
   {
   title: "The word 'Perfect' is a lie...",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "the-word-perfect-is-a-lie.html"
 },
   {
   title: "Realism vs Honesty",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "realism-vs-honesty.html"
 },
   {
   title: "Different standards, cherry picking and hypocrisy.",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "different-standards-cherry-picking-and-hypocrisy.html"
 },
   {
   title: "Humanism doesn't apply on animals, does it?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "humanism-doesnt-apply-on-animals-does-it.html"
 },
   {
   title: "A Quality Life",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "a-quality-life.html"
 },
   {
   title: "\"Degrees will be worthless\"",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "degrees-will-be-worthless.html"
 },
   {
   title: "\"There is always a bigger fish\"",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "there-is-always-a-bigger-fish.html"
 },
   {
   title: "iPhone Pro Max theory",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "iphone-pro-max-theory.html"
 },
   {
   title: "The fight of two bulls and the condition of the grass.",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "the-fight-of-two-bulls-and-the-condition-of-the-grass.html"
 },
   {
   title: "To all those \"Live forever\" guys",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "to-all-those-live-forever-guys.html"
 },
   {
   title: "AI as an authority",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "ai-as-an-authority.html"
 },
   {
   title: "Impact of Social Media on Children",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "impact-of-social-media-on-children.html"
 },
   {
   title: "MacBook Air M5",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "macbook-air-m5.html"
 },
   {
   title: "Downplaying Fatherhood...",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "downplaying-fatherhood.html"
 },
   {
   title: "Respect for the elders!! Should you?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "respect-for-the-elders-should-you.html"
 },
   {
   title: "Reality of Cinema.",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "reality-of-cinema.html"
 },
   {
   title: "Churchill Reality.",
-  category: "Historical Hypothetical",
+  category: "Historical Evaluation",
   date: "2026-11-18",
   description: "",
   url: "churchill-reality.html"
 },
   {
   title: "Western vs Eastern philosophy, which is superior?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "western-vs-eastern-philosophy-which-is-superior.html"
 },
   {
   title: "Do alcohol and smoking really decrease life?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "do-alcohol-and-smoking-really-decrease-life.html"
 },
   {
   title: "Degree vs skill?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "degree-vs-skill.html"
 },
   {
   title: "Aristotle, Plato, Socrates : Actually Wise or Overrated?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "aristotle-plato-socrates-actually-wise-or-overrated.html"
@@ -583,21 +583,21 @@ const articles = [
 },
   {
   title: "Friedrich Nietzsche and the Superman.",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "friedrich-nietzsche-and-the-superman.html"
 },
   {
   title: "Is Wisdom even real?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "is-wisdom-even-real.html"
 },
   {
   title: "Are Polymaths real?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "are-polymaths-real.html"
@@ -611,56 +611,56 @@ const articles = [
 },
   {
   title: "Marcus Aurelius and Stoicism.",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "marcus-aurelius-and-stoicism.html"
 },
   {
   title: "Consumerism, and us.",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "consumerism-and-us.html"
 },
   {
   title: "How did they? (The mind of ambitious people)",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "how-did-they-the-mind-of-ambitious-people.html"
 },
   {
   title: "\"Fearless dies once, Cautious never lives\"",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "fearless-dies-once-cautious-never-lives.html"
 },
   {
   title: "Is AI bad for humans?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "is-ai-bad-for-humans.html"
 },
   {
   title: "Does Perspectivism make sense?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "does-perspectivism-make-sense.html"
 },
   {
   title: "How to develop Discipline?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "how-to-develop-discipline.html"
 },
   {
   title: "Does Natalism make any sense?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "2026-11-18",
   description: "",
   url: "does-natalism-make-any-sense.html"

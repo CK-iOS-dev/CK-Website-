@@ -128,7 +128,7 @@ const articles = [
 },
   {
   title: "Why is it necessary to be rich?",
-  category: "Reflections",
+  category: "Conceptual",
   date: "10 July 2026",
   description: "",
   url: "why-is-it-necessary-to-be-rich.html"
